@@ -14,9 +14,10 @@ This programm was my first experience with OOC and i created it to get some
 more knowledge on OOC so it may contain errors.
 
 IMPORTANT!:
+IN ORDER TO RUN YOU HAVE TO DOWNLOAD THE PROGRAMM AND RUN THE "trussmain.py" FILE.
 THE PROGRAM WILL NOT WORKIF YOU HAVE NOT INSTALLED THE NUMPY LIBRARY!!!
 
-To install just type at your command prompt the following command:
+To install NumPy just type at your command prompt the following command:
 
 pip install numpy
 
